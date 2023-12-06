@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @shahzad-07
-- 👀 I’m interested in sleeping, blogging, eating, watching movies, learning
-- 🌱 I’m currently learning java programming language
 - 📫 To reach me gmail me on wsqshahzad786@gmail.com
 
 <!---
